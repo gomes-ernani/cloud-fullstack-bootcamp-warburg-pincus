@@ -1,4 +1,4 @@
-# Estrogonofe de frango:chicken:
+# Estrogonofe de frango :chicken:
 
 ## Ingredientes
 
